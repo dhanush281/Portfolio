@@ -22,9 +22,9 @@
 
 ![Mistos](/assets/img/mistos.jpg)
 
-Mist OS (based on LineageOS):
-Role: Device Maintainer
-Key Tools & Technologies: MistOS Source, Git
+Mist OS (based on LineageOS):                                                                                                                                        
+Role: Device Maintainer                                                                                                                                    
+Key Tools & Technologies: MistOS Source, Git                                                                                                                     
 
 Maintained the MistOS build for [Redmi12 5G], ensuring stability and compatibility with the latest Android versions.
 Authored and maintained the device tree, kernel source, and vendor blobs.
