@@ -6,6 +6,11 @@
 - B.Tech, C.S.E | The University of Glocal at Saharanpur (_2020_)
 
 ## Projects
+
+[Publication](https://github.com/dhanush281/Data-Analysis-Dashboard)
+
+![Dashboard](/assets/img/Dashboard.img.jpg)
+
 ### Dash Board visual representations of data
 ✅ Dynamic Pivot Table: Enables users to filter, sort, and group data efficiently.
 ✅ Customizable Views: Adjust rows, columns, and values to focus on specific data points.
@@ -14,6 +19,9 @@
 ✅ Real-time Analysis: Reflects live system metrics and updates dynamically.
 
 ### Android open source project(custom os)
+
+![Mistos](/assets/img/mistos.jpg)
+
 Mist OS (based on LineageOS):
 Role: Device Maintainer
 Key Tools & Technologies: MistOS Source, Git
@@ -30,6 +38,8 @@ Wrote detailed documentation and flashing guides for end-users.
 ✅ Automation & CI/CD – Set up automated build pipelines using GitHub Actions, Jenkins, or GitLab CI/CD.
 ✅ Collaboration – Work with developers and open-source contributors to improve device support.
 ✅ Documentation – Write detailed flashing guides and troubleshooting documentation for users.
+
+![version](/assets/img/version.jpg)
 
 ### Conclusion :
 As an Android enthusiast, my journey revolves around exploring, developing, and optimizing the Android ecosystem. From custom ROM development to device tree maintenance, I thrive on enhancing performance, stability, and user experience.
