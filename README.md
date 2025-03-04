@@ -1,6 +1,17 @@
 # Data Analytics
 
-#### Technical Skills: Excel, SQL, Powerbi,Python
+#### Technical Skills: 
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" alt="PowerBI" width="40" height="40"/></a>
+![Powerbi](https://img.shields.io/badge/powerbi-000000?style=for-the-badge&logo=powerbi&logoColor=yellow)
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/></a>
+![ms-excel](https://img.shields.io/badge/ms-excel-000000?style=for-the-badge&logo=ms-excel&logoColor=yellow)
+![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=FCFF00)
+![Android](https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=34A853)
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=%23F05032)
+![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26)
+![Canva](https://img.shields.io/badge/canva-000000?style=for-the-badge&logo=canva&logoColor=%2300C4CC)
 
 ## Education
 - B.Tech, C.S.E | The University of Glocal at Saharanpur (_2020_)
